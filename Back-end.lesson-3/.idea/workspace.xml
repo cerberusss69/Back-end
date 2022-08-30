@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e4bc4fc-0582-4064-a160-cb23164b7409" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/JavaCore для тестировщика.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson 5/Lesson 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/Lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Liquid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Vegetables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson3/src/online/Lesson3/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/src/main/java/WeatherResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson7/src/main/java/Weather_for_the_Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson_8/src/main/java/DailyForecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson_8/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson_8/src/main/java/RepositoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/Lesson_8/src/main/java/WeatherResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/leson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/EmptyFoodinPlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/leson_2/src/online/Lesson2/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCore для тестировщика КОД ДОМАШКИ/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaНачальный уровень/1234/1234.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/java/util/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/main/java/com/Domashka/Lesson3/DiaryUkralPechenku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/main/java/com/Domashka/Lesson3/JutSuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/main/java/com/Domashka/Lesson3/SeleniumDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/main/java/com/Domashka/Lesson3/SeleniumStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/main/java/lesson_4/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/test/java/com/GeekBrains/Lesson_4/AreaOfTriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson3/src/test/java/com/GeekBrains/Lesson_5/JutsuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/main/java/com/Domashka/Lesson3/DiaryUkralPechenku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/main/java/com/Domashka/Lesson3/JutSuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/main/java/com/Domashka/Lesson3/SeleniumDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/main/java/com/Domashka/Lesson3/SeleniumStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/main/java/lesson_4/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/src/test/java/com/gb/lesson4/AreaOfTriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/0a88346e-e767-480b-a777-90f1de73675a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/1387b3e9-414d-47ae-bd3e-6b98b585bb3e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/16a2c7da-4cbd-4fdf-8390-27ace0af15cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/18c48d7d-d2cc-45c5-bd09-e08ad719f4ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/1e701993-b3a2-45ea-bd2b-0971d0e4d9ce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/2005db56-5189-4e43-bb82-c907657c1779-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/2659dc27-9327-4de6-b510-ebdbae63703a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/2da44346-7f58-4fac-981b-6f5608c5015d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/49c7f98d-c159-4e11-a715-5a875bdfbe06-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/516c744b-16d8-496b-8255-6a71c5a9ff0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/8560a197-1fec-4dd4-8343-f523fb222caf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/a1245134-7b4b-4108-8690-d4085670929f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/b014fe43-cf33-470d-bb14-35cd944b90f9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/b49debd4-8fe8-48b2-9952-351bdc68a98a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/be51af19-63de-4ed9-bcdc-d5b25ab0f1aa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/d00d21f7-1b7d-454e-8e03-8587b59e540c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/d01575d4-5b83-495c-8aa9-b943474c19ce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/e6f56eae-0544-42ba-815d-4c761aed9efc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/ec0fb307-8327-4eb5-8f09-7c3a7d010c62-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/f3775689-2ea8-456e-a125-6f3ad47573ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/allure-results/fc2d691e-69fc-4280-9530-e2d4a0eb5732-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/classes/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/classes/com/Domashka/Lesson3/DiaryUkralPechenku.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/classes/com/Domashka/Lesson3/JutSuTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/classes/com/Domashka/Lesson3/SeleniumDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/classes/com/Domashka/Lesson3/SeleniumStart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/classes/lesson_4/AreaOfTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Автоматизация/Lesson4/target/test-classes/com/gb/lesson4/AreaOfTriangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repo/images/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repo/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DOrIf6NpS7IdAjx10aSndijO7k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\home\Desktop\Back-end.lesson-3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoggingTest.getErrorTest">
+    <configuration name="LoggingTest.getErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Back-end.lesson-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoggingTest" />
+      <option name="METHOD_NAME" value="getErrorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Back-end.lesson-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RecipeTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeTests.getRecipePositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Back-end.lesson-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RecipeTests" />
+      <option name="METHOD_NAME" value="getRecipePositiveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeTests.getRecipeWithQueryParametersPositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Back-end.lesson-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RecipeTests" />
+      <option name="METHOD_NAME" value="getRecipeWithQueryParametersPositiveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoggingTest.getErrorTest" />
+        <item itemvalue="JUnit.RecipeTests.getRecipePositiveTest" />
+        <item itemvalue="JUnit.RecipeTests" />
+        <item itemvalue="JUnit.RecipeTests.getRecipeWithQueryParametersPositiveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e4bc4fc-0582-4064-a160-cb23164b7409" name="Changes" comment="" />
+      <created>1660580897127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660580897127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
