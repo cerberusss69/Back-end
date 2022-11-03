@@ -40,15 +40,21 @@ public class MyClass {
     }
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        MyClass myClass = (MyClass) o;
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        MyClass myClass = ((MyClass) o);
         return Object.equals(attr1, myClass.attr1) && Object.equals(attr2, myClass.attr2) && Object.equals(attr3, myClass.attr3);
     }
 
     @Override
     public int hashCode() {
-        return Object.hash(attr1, attr2, attr3);
+        int result = 1;
+        result = Object.equals(attr1, attr2, attr3);
+        return result;
     }
 
 }
